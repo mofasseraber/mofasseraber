@@ -2,8 +2,9 @@
 <br>
 <br>
 - Hi, I’m @mofasseraber
-- I’m interested in web development and 3d art
-- I’m currently learning 3d modeling and vfx using Blender
+- I’m interested in web Data Science and web development
+- I’m fluent in R and SQL.
+- I also use spreadsheet and Tableau for data visualization.
 - You can reach me at "abermofasser@gmail.com"
 <br>
 ✌
