@@ -1,7 +1,7 @@
 👋
 <br>
 <br>
-- Hi, I’m @mofasseraber
+- Hi, I’m Mofasser Aber
 - I’m interested in Data Analytics and Backend Development
 - Fluent in R and SQL.
 - Has knowledge in spreadsheet and Tableau for data cleaning and data visualization
