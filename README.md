@@ -2,7 +2,7 @@
 <br>
 <br>
 - Hi, I’m Mofasser Aber
-- I’m interested in Data Analytics and Backend Development
+- I’m interested in Data Analytics and front-end Development
 - Fluent in R and SQL.
 - Has knowledge in spreadsheet and Tableau for data cleaning and data visualization
 - You can reach me at "abermofasser@gmail.com"
